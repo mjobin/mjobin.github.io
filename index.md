@@ -4,7 +4,7 @@ layout: default
 
 # Matthew Jobin
 
-
+Find my population genetics code at my [GitHub](https://github.com/mjobin) page.
 
 
 # Where I work:
